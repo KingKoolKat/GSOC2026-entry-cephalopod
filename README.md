@@ -6,11 +6,11 @@ The source video is from Octolab TV on Youtube. I chose it because I thought the
 
 ## Summary Video
 
-[Open the rendered summary video](octopus_activity_summary.mp4)
+[![Watch the activity summary on YouTube](https://img.youtube.com/vi/G5QKRwlSbLM/hqdefault.jpg)](https://youtu.be/G5QKRwlSbLM)
 
-<video src="octopus_activity_summary.mp4" controls width="100%"></video>
+Watch the activity summary on YouTube: https://youtu.be/G5QKRwlSbLM
 
-[![Summary video preview](docs/summary_frame_21s.jpg)](octopus_activity_summary.mp4)
+Download the rendered MP4 from this repository: [octopus_activity_summary.mp4](octopus_activity_summary.mp4)
 
 ## Repository Contents
 
